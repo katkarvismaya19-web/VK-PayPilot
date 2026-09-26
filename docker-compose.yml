@@ -1,0 +1,14 @@
+services:
+  paypilot:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      DATABASE_URL: sqlite:////app/state/paypilot.db
+    volumes:
+      - paypilot-state:/app/state
+volumes:
+  paypilot-state:

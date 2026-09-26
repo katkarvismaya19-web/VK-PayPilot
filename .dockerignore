@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+.env
+paypilot.db
+outbox.jsonl
+dist
