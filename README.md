@@ -1,6 +1,6 @@
 # PayPilot AI — Intelligent Commerce & Growth Agent
 
-**Live demo:** [katkarvismaya19-web.github.io/PayPilot-AI](https://katkarvismaya19-web.github.io/PayPilot-AI/) — the owner dashboard and customer portal, running in the browser on a snapshot of the real pipeline's output
+**Live demo:** [katkarvismaya19-web.github.io/VK-PayPilot](https://katkarvismaya19-web.github.io/VK-PayPilot/) — the owner dashboard and customer portal, running in the browser on a snapshot of the real pipeline's output
 
 Built on two earlier projects: [SmartRetailAnalytics](https://github.com/katkarvismaya19-web/Vismayakatkar-SmartRetailAnalytics) (analytics layer) and [VeriRAG](https://github.com/katkarvismaya19-web/VeriRAG) (retrieval and citations).
 
@@ -110,7 +110,7 @@ behind OTP or magic-link login and take the customer id from the session rather 
 
 In the GitHub repository go to **Settings → Pages**, choose **Deploy from a branch**, branch
 `main`, folder `/docs`, and save. After a minute the demo is live at
-`https://<your-username>.github.io/PayPilot-AI/`.
+`https://<your-username>.github.io/<repository-name>/`.
 
 ## Configuration
 
