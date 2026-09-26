@@ -1,0 +1,32 @@
+product_id,product_name,category,price,margin_pct
+P001,Linen Kurta,Apparel,1499,30
+P002,Cotton Tee,Apparel,599,30
+P003,Denim Jacket,Apparel,2799,55
+P004,Silk Dupatta,Apparel,1199,30
+P005,Chino Trousers,Apparel,1699,40
+P006,Handloom Saree,Apparel,3999,35
+P007,Hoodie,Apparel,1899,25
+P008,Vitamin C Serum,Beauty,799,35
+P009,Sunscreen SPF50,Beauty,499,40
+P010,Kumkumadi Oil,Beauty,1299,55
+P011,Lip Tint,Beauty,349,35
+P012,Hair Mask,Beauty,649,40
+P013,Face Wash,Beauty,299,35
+P014,Wireless Earbuds,Electronics,2499,55
+P015,Smart Watch,Electronics,4999,40
+P016,Power Bank 20k,Electronics,1599,40
+P017,Bluetooth Speaker,Electronics,2199,30
+P018,USB-C Charger,Electronics,899,40
+P019,Neckband,Electronics,1299,25
+P020,Brass Diya Set,Home,999,40
+P021,Cotton Bedsheet,Home,1399,45
+P022,Ceramic Mug Set,Home,749,25
+P023,Scented Candle,Home,549,55
+P024,Jute Rug,Home,2299,25
+P025,Copper Bottle,Home,899,35
+P026,Cold Brew Coffee,Grocery,449,40
+P027,Assam Tea 500g,Grocery,399,30
+P028,Trail Mix,Grocery,299,30
+P029,Organic Honey,Grocery,549,30
+P030,A2 Ghee 1L,Grocery,1199,25
+P031,Millet Muesli,Grocery,379,55
